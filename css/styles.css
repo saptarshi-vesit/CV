@@ -1,0 +1,30 @@
+body {
+    background-color: #F8ECD1;
+}
+
+h1, h3 {
+    color: #f4a460;
+    font-family: 'Armata', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.objective {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+hr {
+    border-color: grey;
+    border-width: 0.3em;
+    border-style: dotted none none;
+    width: 10%;
+}
